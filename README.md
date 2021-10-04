@@ -1,1 +1,5 @@
-# lab-2.5.2-improved-sign-up-form
+Hi,
+
+Completed the activity plus added a tel number label and practiced more.
+
+thanks!
